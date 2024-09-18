@@ -21,6 +21,8 @@ td {
   height: 40px;
 }
 
-.Event{
-  background-color: props.color;
+
+
+.green{
+  background-color: green;
 }
